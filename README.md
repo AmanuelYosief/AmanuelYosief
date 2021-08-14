@@ -1,10 +1,11 @@
 ### Hi there 👋
-I'm **Amanuel Yosief Mussie **, a London based **full stack developer** building products at [**KIRA CORE**](https://kira.network/).
+I'm **Amanuel Yosief Mussie**, a London based **full stack developer** building products at [**KIRA CORE**](https://kira.network/).
 I have background in cryptography, blockchains, machine learning and data visualisation (UX/UI design).
 Opinions are my own and not the views of my employer.
 
 
-⚡ I'm maintaining [**Cosmos Market Tracker**](https://cosmos-cap.com/), a validator service in Hetzner Germany `KC Validator`, hopefully i can do a few more cool things. 
+⚡ I'm maintaining [**Cosmos Market Tracker**](https://cosmos-cap.com/), a validator service in Hetzner Germany `KC Validator`
+
 💬 Reach out to me via [e-mail](amenuelmussie@gmail.com) or [Linked-In](https://uk.linkedin.com/in/amanuel-mussie).
 You can also find me on telegram as as `@millenialKnight`
 
